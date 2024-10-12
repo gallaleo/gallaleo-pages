@@ -9,7 +9,7 @@ tags: [ontario, goderich]
 
 
 - Restaurants
-	- [West Street Willy Eatery](https://weststreetwillyseatery.com/) #breakfast #dinner #supper
+	- [West Street Willy Eatery](https://weststreetwillyseatery.com/) #breakfast #dinner #supper [[2024-10-12]]
 	- [Steve and Mary's On The Square](https://steveandmarysonthesquare.ca/) #breakfast #dinner #supper
 	- [Park House](https://www.parkhouserestaurant.com/#Menu) #dinner #supper 
 	- [Cait's Cafe](https://www.caitscafe.ca/) #coffee [[2024-10-12]]
