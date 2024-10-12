@@ -5,7 +5,7 @@ tags: [ontario, goderich]
 ✅
 
 - Accommodations
-	- [COLBORNE BED AND BREAKFAST](https://colbornebandb.com/)
+	- [COLBORNE BED AND BREAKFAST](https://colbornebandb.com/) [[2024-10-11]] [[2024-10-12]] [[2024-10-13]]
 
 
 - Restaurants
