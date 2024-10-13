@@ -4,6 +4,6 @@ DateCreated: 2022-09-20
 
 
 
-- Restaurants to Try
+- Eats
 	- [SumiLicious Smoked Meat & Deli - Home](https://sumilicious.ca/)
 

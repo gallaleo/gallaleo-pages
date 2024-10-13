@@ -3,7 +3,7 @@ tags: [ontario, milton]
 ---
 
 
-- Restaurants We Frequent
+- Eats
 	- [RAD BROTHERS (theradbrothers.com)](https://theradbrothers.com/) ✅
 	- [Lone Star Texas Grill](https://lonestartexasgrill.com/menus) ✅
 	- [Montana's Menus (montanas.ca)](https://www.montanas.ca/en/menu.html) ✅

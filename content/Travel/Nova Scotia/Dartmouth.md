@@ -2,7 +2,7 @@
 
 
 
-- Food
+- Eats
 	- Cafes
 		- [Two If By Sea Cafe](https://www.twoifbysea.cafe/)
 		- [Café Goodluck — Manual Food and Drink Co.](https://www.manualfoodanddrinkco.com/goodluck/)

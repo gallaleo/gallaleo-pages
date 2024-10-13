@@ -8,7 +8,7 @@ tags: [ontario, goderich]
 	- [COLBORNE BED AND BREAKFAST](https://colbornebandb.com/) [[2024-10-11]] [[2024-10-12]] [[2024-10-13]]
 
 
-- Restaurants
+- Eats
 	- [West Street Willy Eatery](https://weststreetwillyseatery.com/) #breakfast #dinner #supper [[2024-10-12]]
 	- [Steve and Mary's On The Square](https://steveandmarysonthesquare.ca/) #breakfast #dinner #supper
 	- [Park House](https://www.parkhouserestaurant.com/#Menu) #dinner #supper 

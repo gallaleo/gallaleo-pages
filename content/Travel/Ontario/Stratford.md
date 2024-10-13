@@ -9,7 +9,7 @@ DateCreated: 2022-07-09
 	- [Bentley's (bentleysbarinn.com)](https://www.bentleysbarinn.com/Lofts99) [[2022-11-04]]
 	- [The Parlour Inn](https://www.theparlour.ca/) [[2023-03-03]] [[2023-10-21]] [[2024-02-23]]
 
-- Restaurants 
+- Eats
 	- Breakfast/Lunch/Coffee
 		- [Coffee Culture Café & Eatery](https://www.coffeeculturecafe.com/) [[2022-11-05]] [[2023-03-04]] [[2024-02-24]]
 		- Features - 10 Downie St, Stratford, ON N5A 1W5 [[2022-11-06]] [[2023-03-05]]

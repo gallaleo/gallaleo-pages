@@ -6,7 +6,7 @@ tags: [ontario, paris]
 
 - [Stay — Arlington Hotel](https://www.arlingtonhotel.ca/stay) [[2022-03-04]] [[2023-08-20]]
 
-- Restaurants
+- Eats
 	- [Stillwaters Plate & Pour](https://stillwatersplateandpour.ca/) [[2023-08-21]]
 	- [Paris Inn Restaurant - Pizza and More](https://paris-inn.ca/)
 	- [2Rivers Paris](https://www.2riversrestaurant.com/)

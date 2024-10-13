@@ -5,7 +5,7 @@
 		- Wi-Fi Password:  STRATHROY
 
 
-- Restaurants
+- Eats
 	- [Tia's Place Strathroy (tiasplace.ca)](https://tiasplace.ca/)
 	- [Rusty Wrench Brewing Company](https://www.rustywrench.ca/)
 	- [King of the Pigs Open Flamed BBQ in London, Ontario](https://kingofthepigs.com/)

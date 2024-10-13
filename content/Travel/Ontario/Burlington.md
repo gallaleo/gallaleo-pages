@@ -4,7 +4,7 @@ tags: [ontario, burlington]
 
 
 
-- Restaurants
+- Eats
 	- Tried
 		- [Industria Pizzeria](https://industriapizzeria.com/restaurant/burlington/) A favorite.  Have been there multiple times #supper 
 		- [Saving Thyme](https://www.savingthyme.ca/bistro.html) ✅ (brunch) (close to Modo Burlington, less breakfast choices) [[2022-09-25]]
