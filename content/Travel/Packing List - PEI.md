@@ -1,0 +1,45 @@
+---
+DateCreated: 2022-07-05
+---
+
+- Things to take for Lorraine
+	- Lorraine's yoga mat (if room)
+
+- Packing list
+	- Air Fryer for Mom and Dad
+	- Lorraine's optional items if there is room
+	- Bag of hoodies I no longer wear
+	- Toiletries
+		- shaving
+		- teeth
+		- deodorant
+		- medicine
+		- vitamins, etc.
+		- headache
+		- gaviscon
+	- yoga mat & towels
+	- gym bag
+	- knee brace
+	- clothes
+		- yoga clothes
+		- sandals
+		- sneakers
+		- hoodies
+		- wind breaker
+		- hat
+		- underwear
+		- socks
+		- jeans
+		- dress pants
+		- golf shirts
+		- track pants
+	- tech
+		- laptop & charger
+		- phone & charger
+		- kindle
+		- tablet and charger
+		- watch charging cable
+	- 
+
+- Move Dash Cam from Mustang to Escape
+- Move 407 Transponder to Escape
