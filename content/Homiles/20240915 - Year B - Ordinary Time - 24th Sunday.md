@@ -21,6 +21,7 @@ And Peter took Jesus aside and began to rebuke him. But turning and looking at h
   
 Jesus called the crowd with his disciples, and said to them, “Whoever wants to become my follower, let him deny himself and take up his cross and follow me. For whoever wants to save their life will lose it, and whoever loses their life for my sake, and for the sake of the Gospel, will save it.”
 
+
 # 20240915 - Homily
 
 - Who do you say that I am?
