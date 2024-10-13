@@ -1,6 +1,7 @@
 
 
 - [Ultimate Ontario - Ultimate Ontario](https://ultimateontario.com/)
+- [Ontario's West Coast](https://www.ontarioswestcoast.ca/)
 
 
 - [Cheltenham Badlands Trail | Ontario Trails Council](https://www.ontariotrails.on.ca/index.php?url=trails/view/cheltenham-hills)
