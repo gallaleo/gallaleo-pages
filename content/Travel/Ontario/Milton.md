@@ -2,9 +2,12 @@
 tags: [ontario, milton]
 ---
 
+✅ - would go again
+✅✅ - make a point of going there
+
 
 - Eats
-	- [RAD BROTHERS (theradbrothers.com)](https://theradbrothers.com/) ✅
+	- [RAD BROTHERS (theradbrothers.com)](https://theradbrothers.com/) ✅✅ CLOSED
 	- [Lone Star Texas Grill](https://lonestartexasgrill.com/menus) ✅
 	- [Montana's Menus (montanas.ca)](https://www.montanas.ca/en/menu.html) ✅
 	- [Symposium Cafe](https://symposiumcafe.com/patio-dining-menu) ✅
