@@ -9,9 +9,9 @@ psalm: Psalm 34
 reading2: Epesians 5.15-20
 ---
 
-#### Readings
+# Readings
 
-# Proverbs 9.1-6 of Sunday August 18, 2024
+### Proverbs 9.1-6 of Sunday August 18, 2024
 
 Wisdom has built her house,  
 she has hewn her seven pillars.  
@@ -28,7 +28,7 @@ and drink of the wine I have mixed.
 Lay aside immaturity, and live,  
 and walk in the way of insight.”
 
-# Psalm 34 of Sunday August 18, 2024
+### Psalm 34 of Sunday August 18, 2024
 
 R. Taste and see that the Lord is good.
   
@@ -41,13 +41,13 @@ Come, O children, listen to me; I will teach you the fear of the Lord. Which of 
 Keep your tongue from evil, and your lips from speaking deceit. Depart from evil, and do good; seek peace, and pursue it. R.
 
 
-# Ephesians 5.15-20 of Sunday August 18, 2024
+### Ephesians 5.15-20 of Sunday August 18, 2024
 
 Brothers and sisters, be careful how you live, not as unwise people but as wise, making the most of the time, because the days are evil. So do not be foolish, but understand what the will of the Lord is.  
   
 Do not get drunk with wine, for that is debauchery; but be filled with the Spirit, as you sing Psalms and hymns and spiritual songs among yourselves, singing and making music to the Lord in your hearts, giving thanks to God the Father at all times and for everything in the name of our Lord Jesus Christ.
 
-# John 6.51-58 of Sunday August 18, 2024
+### John 6.51-58 of Sunday August 18, 2024
 
 Jesus said to the people: “I am the living bread that came down from heaven. Whoever eats of this bread will live forever; and the bread that I will give for the life of the world is my flesh.”  
   
@@ -56,7 +56,7 @@ The people then disputed among themselves, saying, “How can this man give us h
 So Jesus said to them, “Very truly, I tell you, unless you eat the flesh of the Son of Man and drink his blood, you have no life in you. Whoever eats my flesh and drinks my blood has eternal life, and I will raise them up on the last day; for my flesh is true food and my blood is true drink. Whoever eats my flesh and drinks my blood abides in me, and I in them.  
   
 “Just as the living Father sent me, and I live because of the Father, so whoever eats me will live because of me. This is the bread that came down from heaven, not like that which your ancestors ate, and they died. But the one who eats this bread will live forever.”
-#### Homily
+# Homily
 
 
 - Wisdom presents itself in many forms in our lives and is often a choice we need to make.  

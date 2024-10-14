@@ -9,7 +9,9 @@ psalm: Psalm 116
 reading2: James 2.14-18
 ---
 
-# Mark 8.27-35 of Sunday September 15, 2024
+# Gospel
+
+### Mark 8.27-35 of Sunday September 15, 2024
 
 Jesus went on with his disciples to the villages of Caesarea Philippi; and on the way he asked his disciples, “Who do people say that I am?” And they answered him, “John the Baptist; and others, Elijah; and still others, one of the Prophets.”  
   
@@ -22,7 +24,7 @@ And Peter took Jesus aside and began to rebuke him. But turning and looking at h
 Jesus called the crowd with his disciples, and said to them, “Whoever wants to become my follower, let him deny himself and take up his cross and follow me. For whoever wants to save their life will lose it, and whoever loses their life for my sake, and for the sake of the Gospel, will save it.”
 
 
-# 20240915 - Homily
+# Homily
 
 - Who do you say that I am?
 	- In today's Gospel, we hear Jesus ask his disciples "Who do you say that I am?"
