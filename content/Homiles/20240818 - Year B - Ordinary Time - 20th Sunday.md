@@ -56,8 +56,8 @@ The people then disputed among themselves, saying, “How can this man give us h
 So Jesus said to them, “Very truly, I tell you, unless you eat the flesh of the Son of Man and drink his blood, you have no life in you. Whoever eats my flesh and drinks my blood has eternal life, and I will raise them up on the last day; for my flesh is true food and my blood is true drink. Whoever eats my flesh and drinks my blood abides in me, and I in them.  
   
 “Just as the living Father sent me, and I live because of the Father, so whoever eats me will live because of me. This is the bread that came down from heaven, not like that which your ancestors ate, and they died. But the one who eats this bread will live forever.”
-# Homily
 
+# Homily
 
 - Wisdom presents itself in many forms in our lives and is often a choice we need to make.  
 	- Wisdom can be the choice of whether to offer advice to a friend who has come to you with a problem
