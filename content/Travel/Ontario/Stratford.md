@@ -11,7 +11,7 @@ DateCreated: 2022-07-09
 
 - Accommodations
 	- [Bentley's (bentleysbarinn.com)](https://www.bentleysbarinn.com/Lofts99)  [[2022-11-04]]
-	- [The Parlour Inn](https://www.theparlour.ca/) ✅✅ [[2023-03-03]] [[2023-10-21]] [[2024-02-23]]
+	- [The Parlour Inn](https://www.theparlour.ca/) ✅✅ [[2023-03-03]] [[2023-10-21]] [[2024-02-23]] [[2024-12-06]]
 
 - Eats
 	- Breakfast/Lunch/Coffee
@@ -19,8 +19,9 @@ DateCreated: 2022-07-09
 		- Features - 10 Downie St, Stratford, ON N5A 1W5 ✅✅ [[2022-11-06]] [[2023-03-05]]
 		- [Coffee Shop & Wine Bar | Brch & Wyn | Stratford (brchandwyn.ca)](https://www.brchandwyn.ca/)  ✅✅[[2024-12-06]]
 		- [Revel (revelstratford.ca)](https://revelstratford.ca/) ✅ [[2023-10-22]]
-		- [The Livery Yard Stratford | Facebook](https://www.facebook.com/theliveryyardstratford/about) ✅✅ [[2023-10-23]] [[2024-02-24]]
+		- [The Livery Yard Stratford | Facebook](https://www.facebook.com/theliveryyardstratford/about) ✅✅ [[2023-10-23]] [[2024-02-24]] [[2024-12-07]]
 		- [Bake My Day & The Bean, Stratford, ON (menupix.com)](https://www.menupix.com/ontario/restaurants/32870727/Bake-My-Day-and-The-Bean-Stratford-ON) [[2024-02-25]]
+		- [Romeo's Corner Cafe](https://www.romeoscornercafe.ca/)
 	
 	- Lunch / Dinner
 		- [Bentley's Bar & Inn](https://www.bentleysbarinn.com/Default) ✅ [[2022-11-04]]
@@ -29,6 +30,7 @@ DateCreated: 2022-07-09
 		- [Fellini's Stratford](https://www.fellinisstratford.com/default.aspx) ✅ [[2023-03-04]] [[2024-02-24]]
 		- [WHATEVER 75 - Multiple Restaurants](https://www.whatever75.com/) [[2023-10-22]]
 		- [Gilly's Pub](https://www.gillyspubhouse.online/) [[2023-10-22]]
+		- [Mercer Kitchen | Beer Hall | Hotel in Stratford Ontario](https://www.mercerhall.ca/)
 
 - Other
 	- Breweries

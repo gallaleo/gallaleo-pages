@@ -4,6 +4,8 @@
 
 
 - ### 2024
+	- [[20241215 - Year C - Advent - 3rd Sunday|20241215 - Year C - Advent - 3rd Sunday]]
+		- patience and joy
 	- [[20241020 - Year B - Ordinary Time - 29th Sunday|20241020 - Year B - Ordinary Time - 29th Sunday]]
 		- Be careful what you ask for!
 	- [[20240915 - Year B - Ordinary Time - 24th Sunday|20240915 - Year B - Ordinary Time - 24th Sunday]]
