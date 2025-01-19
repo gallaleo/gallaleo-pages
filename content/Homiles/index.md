@@ -3,6 +3,10 @@
 # Homilies
 
 
+- ### 2025
+	- [[20250119 - Year C - Ordinary Time - 2nd Sunday|20250119 - Year C - Ordinary Time - 2nd Sunday]]
+		- change and faith
+
 - ### 2024
 	- [[20241215 - Year C - Advent - 3rd Sunday|20241215 - Year C - Advent - 3rd Sunday]]
 		- patience and joy
