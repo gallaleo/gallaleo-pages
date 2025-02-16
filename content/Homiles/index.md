@@ -4,6 +4,8 @@
 
 
 - ### 2025
+	- [[20250216 - Year C - Ordinary Time - 6th Sunday|20250216 - Year C - Ordinary Time - 6th Sunday]]
+		- Blessed is the one who trusts in the Lord
 	- [[20250119 - Year C - Ordinary Time - 2nd Sunday|20250119 - Year C - Ordinary Time - 2nd Sunday]]
 		- change and faith
 
