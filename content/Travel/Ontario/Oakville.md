@@ -5,6 +5,7 @@ tags: [ontario, oakville]
 
 - Eats
 	- [BBQ & Craft Beer | STACK Smmmoked (est. 2012)](https://www.stacksmmmoked.com/)
+	- [BoVine Burgers and Bar | Culinary Delights | Crafted Cocktails | Oakville, ON](https://www.bovineburgersandbar.com/)
 	
 	- [Chop Steakhouse & Bar | Happy Hour, Dinner, Late Night | Burlington - Oakville](https://chop.ca/locations/burlington-oakville) [[2022-12-31]]
 		- awesome food and great service.  NYE 2022.  Great special occasion spot

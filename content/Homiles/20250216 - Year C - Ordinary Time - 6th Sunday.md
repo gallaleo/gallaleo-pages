@@ -10,6 +10,22 @@ reading2: 1 Corinthians 15.12,16-20
 ---
 ## 20250216 - [[Year C - Ordinary Time - 6th Sunday]]
 
+# Gospel
+
+### Luke 6.17, 20-26 of Sunday February 16, 2025
+
+Jesus came down with the twelve and stood on a level place, with a great crowd of his disciples and a great multitude of people from all Judea, Jerusalem, and the coast of Tyre and Sidon.  
+  
+Then Jesus looked up at his disciples and said: “Blessed are you who are poor, for yours is the kingdom of God. Blessed are you who are hungry now, for you will be filled. Blessed are you who weep now, for you will laugh. Blessed are you when people hate you, and when they exclude you, revile you, and defame you on account of the Son of Man.  
+  
+“Rejoice in that day and leap for joy, for surely your reward is great in heaven; for that is what their ancestors did to the Prophets.  
+  
+“But woe to you who are rich, for you have received your consolation. Woe to you who are full now, for you will be hungry. Woe to you who are laughing now, or you will mourn and weep. Woe to you when all speak well of you, for that is what their ancestors did to the false Prophets.”
+
+
+# Homily
+
+
 - When we are truly listening, we come to know that God is speaking to us, pointing the way, showing the direction forward. 
 	- We simply need to learn to keep our ears open.
 
