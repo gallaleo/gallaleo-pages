@@ -31,6 +31,10 @@ DateCreated: 2022-07-09
 		- [WHATEVER 75 - Multiple Restaurants](https://www.whatever75.com/) [[2023-10-22]]
 		- [Gilly's Pub](https://www.gillyspubhouse.online/) [[2023-10-22]]
 		- [Mercer Kitchen | Beer Hall | Hotel in Stratford Ontario](https://www.mercerhall.ca/)
+		- [ Braai House - South African Restaurant](https://www.braaihouse.restaurant)
+		- [ELIZABETH](https://www.elizabethstratford.ca)
+		- [The Starlight - Small Plates Menu](https://www.thestarlightstratford.com/eat)
+		- [Lovage](https://www.lovagestratford.com)
 
 - Other
 	- Breweries
