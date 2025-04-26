@@ -4,6 +4,8 @@
 
 
 - ### 2025
+	- [[20250417 - Year C - Triduum - Holy Thursday|20250417 - Year C - Triduum - Holy Thursday]]
+		- gifts
 	- [[20250316 - Year C - Lent - 2nd Sunday|20250316 - Year C - Lent - 2nd Sunday]]
 		- temptation and prayer
 	- [[20250216 - Year C - Ordinary Time - 6th Sunday|20250216 - Year C - Ordinary Time - 6th Sunday]]
