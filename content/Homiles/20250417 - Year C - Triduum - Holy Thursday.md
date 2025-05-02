@@ -88,6 +88,3 @@ After he had washed their feet, put on his robe, and returned to the table, Jesu
 	- What impact have these gifts had and will continue to have in our lives.
  
 
-References: [[Year C - Triduum - Holy Thursday]], [[Year C - Triduum - Holy Thursday - Notes]]
-Tags: #John 
-

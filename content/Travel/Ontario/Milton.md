@@ -22,4 +22,4 @@ tags: [ontario, milton]
 - Take Out
 	- [Firehouse Subs - Firehouse Subs Menu - Specialty Subs, Hot Subs, Cold Subs, Salads, Catering](https://www.firehousesubs.ca/our-food/) ✅
 	- [Halifax Donair Store (halifaxoriginaldonair.com)](https://www.halifaxoriginaldonair.com/) ✅
-	- 
+	- [Galitos Flame Grilled Peri Peri Chicken \| Menu](https://galitoschicken.com/menu) ✅
