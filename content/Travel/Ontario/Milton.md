@@ -7,7 +7,7 @@ tags: [ontario, milton]
 
 
 - Eats
-	- [RAD BROTHERS (theradbrothers.com)](https://theradbrothers.com/) ✅✅ CLOSED
+	- **CLOSED** [RAD BROTHERS (theradbrothers.com)](https://theradbrothers.com/) ✅✅ 
 	- [Lone Star Texas Grill](https://lonestartexasgrill.com/menus) ✅
 	- [Montana's Menus (montanas.ca)](https://www.montanas.ca/en/menu.html) ✅
 	- [Symposium Cafe](https://symposiumcafe.com/patio-dining-menu) ✅
@@ -21,5 +21,5 @@ tags: [ontario, milton]
 
 - Take Out
 	- [Firehouse Subs - Firehouse Subs Menu - Specialty Subs, Hot Subs, Cold Subs, Salads, Catering](https://www.firehousesubs.ca/our-food/) ✅
-	- [Halifax Donair Store (halifaxoriginaldonair.com)](https://www.halifaxoriginaldonair.com/) ✅
+	- **CLOSED** [Halifax Donair Store (halifaxoriginaldonair.com)](https://www.halifaxoriginaldonair.com/) ✅
 	- [Galitos Flame Grilled Peri Peri Chicken \| Menu](https://galitoschicken.com/menu) ✅
