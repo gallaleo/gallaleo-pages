@@ -4,6 +4,8 @@
 
 
 - ### 2025
+	- [[20250518 - Year C - Easter - 5th Sunday|20250518 - Year C - Easter - 5th Sunday]]
+		- love one another as Jesus loves us
 	- [[20250417 - Year C - Triduum - Holy Thursday|20250417 - Year C - Triduum - Holy Thursday]]
 		- gifts
 	- [[20250316 - Year C - Lent - 2nd Sunday|20250316 - Year C - Lent - 2nd Sunday]]
