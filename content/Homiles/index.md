@@ -4,6 +4,8 @@
 
 
 - ### 2025
+	- [[20250720 - Year C - Ordinary Time - 16th Sunday]]
+		- balance between spirituality and service
 	- [[20250601 - Year C - Solemnity - The Ascension Of The Lord]]
 		- love, home
 	- [[20250518 - Year C - Easter - 5th Sunday|20250518 - Year C - Easter - 5th Sunday]]
