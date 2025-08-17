@@ -7,4 +7,5 @@
 	- [Earls Kitchen + Bar Restaurants](https://earls.ca) ✅
 	- [ZaonBay – Best Pizzeria in Toronto](http://www.zaonbay.ca) ✅✅ [[2025-04-29]]
 	- [Rosie's Burgers - Rosie's Burgers](https://rosiesburgers.ca) ✅✅
+	- [Elm Street Italian Deli](https://www.elmstdeli.com) ✅ [[2025-06-10]]
 

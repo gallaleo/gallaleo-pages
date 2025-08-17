@@ -4,6 +4,8 @@
 
 
 - ### 2025
+	- [[20250817 - Year C - Ordinary Time - 20th Sunday]]
+		- fire, passion, disruption
 	- [[20250720 - Year C - Ordinary Time - 16th Sunday]]
 		- balance between spirituality and service
 	- [[20250601 - Year C - Solemnity - The Ascension Of The Lord]]

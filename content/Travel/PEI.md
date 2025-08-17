@@ -2,16 +2,21 @@
 DateCreated: 2022-07-09
 ---
 
+✅ - would go again
+✅✅ - make a point of going there
+
 
 - Eats
-	- [John Brown Richmond Street Grille, Beer and Wine Bar (johnbrowngrille.com)](https://johnbrowngrille.com/)
-	- [Restaurant | Northport | Northport Pier Inn & Restaurant](https://www.northportpier.ca/the-restaurant) [[2022-07-29]]
+	- [John Brown Richmond Street Grille, Beer and Wine Bar (johnbrowngrille.com)](https://johnbrowngrille.com/) ✅✅
+	- [FiN Folk Food – Tracadie Beach](https://finfolkfood.ca) [[2025-06-30]] ✅✅
+	- [Peake's Quay – Restaurant & Bar (peakesquay.com)](https://www.peakesquay.com/) [[2022-07-25]] ✅✅
+	- [Fox Meadow Golf Course - Hunter’s at the Fox](https://foxmeadow.pe.ca/hunters-at-the-fox/) [[2022-07-22]] ✅
+	- [PEI Galleries | The Dunes Studio Gallery and Café | Contact Us (dunesgallery.ca)](https://dunesgallery.ca/contactus.html) [[2024-08-09]] ✅✅
+	- [HOME - SAM'S FAMILY RESTAURANT (samspei.ca)](https://samspei.ca/) [[2024-08-10]] ✅
+	- [Taproom - PEI Brewing Company](https://peibrewingcompany.com/taproom/) [[2025-06-26]] ✅
+	- [Charlottetown Beer Garden](https://beergardenpei.com) [[2025-07-02]] ✅
+	- [Restaurant | Northport | Northport Pier Inn & Restaurant](https://www.northportpier.ca/the-restaurant) [[2022-07-29]] ✅
 	- [Stompin' Tom Centre - Stompin' Tom Centre (stompintomcentre.com)](https://stompintomcentre.com/) Two Shea Dinner Theatre [[2022-07-27]]
-	- [Peake's Quay – Restaurant & Bar (peakesquay.com)](https://www.peakesquay.com/) [[2022-07-25]]
-	- [Fox Meadow Golf Course - Hunter’s at the Fox](https://foxmeadow.pe.ca/hunters-at-the-fox/) [[2022-07-22]]
-	- [PEI Galleries | The Dunes Studio Gallery and Café | Contact Us (dunesgallery.ca)](https://dunesgallery.ca/contactus.html) [[2024-08-09]]
-	- [HOME - SAM'S FAMILY RESTAURANT (samspei.ca)](https://samspei.ca/) [[2024-08-10]]
-
 
 - Places to See
 	- International Children's Memorial Place

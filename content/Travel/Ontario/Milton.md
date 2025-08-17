@@ -13,6 +13,7 @@ tags: [ontario, milton]
 	- [Symposium Cafe](https://symposiumcafe.com/patio-dining-menu) ✅
 	- [Mama Mila's (mamamilas.com)](https://www.mamamilas.com/) ✅
 	- [Marquee Steakhouse | Dorian Hospitality Group](https://dorianhospitality.com/marquee_steakhouse/) ✅ 
+	- [GC Burger](https://thegcburger.com)✅ 
 
 - Food Links for places in Milton
 	- [La Rose Specialty Foods and Fine Italian Bakery - Milton, Ontario | Facebook](https://www.facebook.com/larosemilton)
