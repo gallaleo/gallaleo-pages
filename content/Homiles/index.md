@@ -4,6 +4,8 @@
 
 
 - ### 2025
+	- [[20250921 - Year C - Ordinary Time - 25th Sunday]]
+		- choices
 	- [[20250817 - Year C - Ordinary Time - 20th Sunday]]
 		- fire, passion, disruption
 	- [[20250720 - Year C - Ordinary Time - 16th Sunday]]
