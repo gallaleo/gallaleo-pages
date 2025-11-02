@@ -4,6 +4,8 @@
 
 
 - ### 2025
+	- [[20251102 - Year C - Solemnity - All Souls Day]]
+		- begin with the end
 	- [[20250921 - Year C - Ordinary Time - 25th Sunday]]
 		- choices
 	- [[20250817 - Year C - Ordinary Time - 20th Sunday]]
