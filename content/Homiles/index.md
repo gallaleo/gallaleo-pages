@@ -4,6 +4,8 @@
 
 
 - ### 2025
+	- [[20251116 - Year C - Ordinary Time - 33rd Sunday]]
+		- trust
 	- [[20251102 - Year C - Solemnity - All Souls Day]]
 		- begin with the end
 	- [[20250921 - Year C - Ordinary Time - 25th Sunday]]
