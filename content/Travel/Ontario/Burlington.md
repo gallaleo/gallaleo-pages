@@ -18,6 +18,7 @@ tags: [ontario, burlington]
 		- [Chuck's Roadhouse Bar and Grill](https://www.chucksroadhouse.com/)  [[2023-06-18]]
 		- [The Judge And Jury – 1222 Walkers Line Burlington, On](https://www.thejudgeandjury.ca/) ✅  [[2023-08-07]]
 		- [Goody's, Burlington - Menu - Restaurantji](https://www.restaurantji.com/on/burlington/goodys-/)✅ [[2025-08-01]]
+		- [West Plains Bistro](https://www.westplainsbistro.com) ✅ [[2025-08-23]]
 	- To Try
 		- [MENU | Gator Teds](https://www.gatorteds.ca/menus)
 		- [Beertown](https://www.beertown.ca/)
