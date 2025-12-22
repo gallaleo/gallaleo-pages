@@ -4,6 +4,8 @@
 
 
 - ### 2025
+	- [[20251221 - Year A - Advent - 4th Sunday]]
+		- meaning
 	- [[20251116 - Year C - Ordinary Time - 33rd Sunday]]
 		- trust
 	- [[20251102 - Year C - Solemnity - All Souls Day]]
