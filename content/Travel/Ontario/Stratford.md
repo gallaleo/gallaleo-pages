@@ -22,6 +22,7 @@ DateCreated: 2022-07-09
 		- [The Livery Yard Stratford | Facebook](https://www.facebook.com/theliveryyardstratford/about) ✅✅ [[2023-10-23]] [[2024-02-24]] [[2024-12-07]] [[2025-03-29]]
 		- [Bake My Day & The Bean, Stratford, ON (menupix.com)](https://www.menupix.com/ontario/restaurants/32870727/Bake-My-Day-and-The-Bean-Stratford-ON) [[2024-02-25]]
 		- [Romeo's Corner Cafe](https://www.romeoscornercafe.ca/)
+		- 
 	
 	- Lunch / Dinner
 		- [Bentley's Bar & Inn](https://www.bentleysbarinn.com/Default) ✅ [[2022-11-04]]

@@ -15,4 +15,14 @@
 - Youtube Videos
 	- [‘Why did y’all leave me?’: Whoopi Goldberg shares her grief story](https://youtube.com/watch?v=ZtDFo3AzVwg&si=V3HINQTqqmIwzC-J)
 	- [Stephen Colbert and Anderson Cooper's beautiful conversation about grief](https://youtu.be/YB46h1koicQ?si=nH0XiFsKqgT1d-De)
+	- [Gary Sinise Speaks Out About His Son's Death & Why He Left Hollywood \| PEOPLE - YouTube](https://www.youtube.com/watch?v=ND3bAyuWdKc)
+	- [Ashley Judd: Grief, Love and Naomi - YouTube](https://www.youtube.com/watch?v=0_t5JQBmOh4)
+
+- Youtube Channels
+	- [Deacon Henry de Mena](https://www.youtube.com/@hdemena)
+	- 
+
+- Children's Grief Resources
+	- [Home - Lighthouse For Grieving Children](https://lighthousegriefsupport.org)
+	- 
 

@@ -3,6 +3,10 @@
 # Homilies
 
 
+- ### 2026
+	- [[20260215 - Year A - Ordinary Time - 6th Sunday]]
+		- choice, transformation
+
 - ### 2025
 	- [[20251221 - Year A - Advent - 4th Sunday]]
 		- meaning
