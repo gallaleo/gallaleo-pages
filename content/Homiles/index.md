@@ -4,6 +4,8 @@
 
 
 - ### 2026
+	- [[20260403 - Year A - Triduum - Good Friday -]]
+		- choices, moving forward
 	- [[20260315 - Year A - Lent - 4th Sunday -]]
 		- perspective, faith
 	- [[20260215 - Year A - Ordinary Time - 6th Sunday -]]
