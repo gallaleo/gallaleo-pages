@@ -4,6 +4,8 @@
 
 
 - ### 2026
+	- [[20260419 - Year A - Easter - 3rd Sunday -]]
+		- opening our eyes to hope, a walk to Emmaus
 	- [[20260403 - Year A - Triduum - Good Friday -]]
 		- choices, moving forward
 	- [[20260315 - Year A - Lent - 4th Sunday -]]
