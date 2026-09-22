@@ -4,6 +4,8 @@
 
 
 - ### 2026
+	- [[20260920 - Year A - Ordinary Time - 25th Sunday -]]
+		- comparison, God's generosity
 	- [[20260517 - Year A - Solemnity - Ascension of the Lord -]]
 		- transition, hope, connection
 	- [[20260419 - Year A - Easter - 3rd Sunday -]]
