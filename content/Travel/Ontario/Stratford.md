@@ -11,7 +11,7 @@ DateCreated: 2022-07-09
 
 - Accommodations
 	- [Bentley's (bentleysbarinn.com)](https://www.bentleysbarinn.com/Lofts99)  [[2022-11-04]]
-	- [The Parlour Inn](https://www.theparlour.ca/) ✅✅ [[2023-03-03]] [[2023-10-21]] [[2024-02-23]] [[2024-12-06]] [[2025-03-28]] [[2025-11-13]]
+	- [The Parlour Inn](https://www.theparlour.ca/) ✅✅ [[2023-03-03]] [[2023-10-21]] [[2024-02-23]] [[2024-12-06]] [[2025-03-28]] [[2025-11-13]] [[2026-02-27]]
 
 - Eats
 	- Breakfast/Lunch/Coffee
@@ -29,22 +29,22 @@ DateCreated: 2022-07-09
 		- [Pazzo | Italian Restaurant](https://www.pazzo.ca/) ✅ [[2022-11-05]] [[2024-12-07]]
 		- [The Parlour Inn](https://www.theparlour.ca/) ✅✅ [[2023-03-03]] [[2023-10-21]] [[2024-12-06]] [[2024-12-08]] [[2025-03-28]] [[2025-11-14]]
 		- [Fellini's Stratford](https://www.fellinisstratford.com/default.aspx) ✅ [[2023-03-04]] [[2024-02-24]]
-		- [WHATEVER 75 - Multiple Restaurants](https://www.whatever75.com/) [[2023-10-22]]
-		- [Gilly's Pub](https://www.gillyspubhouse.online/) [[2023-10-22]]
+		- [Gilly's Pub](https://www.gillyspubhouse.online/) [[2023-10-22]] [[2026-02-28]]
 		- [Mercer Kitchen | Beer Hall | Hotel in Stratford Ontario](https://www.mercerhall.ca/)
 		- [ Braai House - South African Restaurant](https://www.braaihouse.restaurant) ✅ [[2025-03-29]] [[2025-11-13]]
 		- [ELIZABETH](https://www.elizabethstratford.ca)
 		- [The Starlight - Small Plates Menu](https://www.thestarlightstratford.com/eat)
 		- [Lovage](https://www.lovagestratford.com)
-		- [Work Pub & Eatery (@workpubeatery)](https://www.instagram.com/workpubeatery/) ✅✅ [[2025-03-30]]
+		- [Work Pub & Eatery (@workpubeatery)](https://www.instagram.com/workpubeatery/) ✅✅ [[2025-03-30]] [[2026-03-01]]
+		- **CLOSED** [WHATEVER 75 - Multiple Restaurants](https://www.whatever75.com/) [[2023-10-22]]
 
 - Other
 	- Breweries
+		- [Jobsite Brewing Co.](https://www.jobsitebrewing.ca/) ✅✅ [[2023-10-22]] [[2024-02-24]] [[2025-03-29]] [[2026-02-27]]
 		- [Black Swan Brewing Co.](https://blackswanbrewing.ca/) ✅ [[2022-11-04]]
 		- **CLOSED** [Heritage Hops Brew Co](https://heritagehopsbrew.com/) ✅✅ [[2022-11-05]] [[2023-03-03]]
-		- [Jobsite Brewing Co.](https://www.jobsitebrewing.ca/) ✅✅ [[2023-10-22]] [[2024-02-24]] [[2025-03-29]]
 	- Things to Do
 		- [Stratford | Rocky Mtn Chocolate](https://rockychoc.com/stores/stratford-s33) [[2025-03-29]]
 		- [Rheo Thompson Candies](https://rheothompson.com/) [[2025-03-29]]
 		- [Shakespearean Gardens - Stratford](https://movernie.com/shakespearean-gardens-stratford-ontario-canada-ontario-travel-series/) [[2022-11-05]] [[2023-10-22]]
-		- [Modo Yoga Stratford](https://modoyoga.com/stratford/join/class-schedule/) ✅✅  [[2022-11-06]] [[2023-03-05]] [[2023-10-23]] [[2024-02-23]] [[2024-02-24]] [[2024-02-25]] [[2024-12-06]] [[2025-03-28]] [[2025-03-29]] [[2025-03-30]]
+		- [Modo Yoga Stratford](https://modoyoga.com/stratford/schedule/) ✅✅  [[2022-11-06]] [[2023-03-05]] [[2023-10-23]] [[2024-02-23]] [[2024-02-24]] [[2024-02-25]] [[2024-12-06]] [[2025-03-28]] [[2025-03-29]] [[2025-03-30]] [[2026-02-28]] [[2026-03-01]]
