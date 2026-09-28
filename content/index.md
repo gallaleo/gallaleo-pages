@@ -3,6 +3,8 @@
 
 - A page fo stuff.  More to be added later.
 
+- [[Travel/Ontario/Peterborough]]
+
 - [[Travel/yoga]]
 - [[Travel/Ontario/Burlington]]
 - [[Travel/Ontario/Milton]]
