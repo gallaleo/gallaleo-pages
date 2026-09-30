@@ -5,6 +5,24 @@
 	- [Jay Shetty - A Comment on Grief](https://www.instagram.com/reel/DQhiLS5CHtL/?igsh=MW1yNXd4OGpja20xaw%3D%3D)
 	- 
 
+- Grief Sites
+	- [Our Resources - GrieveWell](https://www.grievewell.com/resources/)
+	- [Free Grief Resources](https://www.davidkesslertraining.com/free)
+	- 
+
+
+- TED Talks
+	- [Nora McInerny: We don't "move on" from grief. We move forward with it \| TED Talk](https://www.ted.com/talks/nora_mcinerny_we_don_t_move_on_from_grief_we_move_forward_with_it)
+		- focuses on the difference between "moving on" and "moving forward"
+	- [Jason B. Rosenthal: The journey through loss and grief \| TED Talk](https://www.ted.com/talks/jason_b_rosenthal_the_journey_through_loss_and_grief)
+		- a message that you will find you again
+	- [Lucy Kalanithi: What makes life worth living in the face of death \| TED Talk](https://www.ted.com/talks/lucy_kalanithi_what_makes_life_worth_living_in_the_face_of_death)
+		- Widow of Paul Kalanthi who wrote the book "When Breath Becomes Air"
+		- resilience doesn't mean bouncing back to where you were before, or pretending that the hard stuff isn't hard
+		- living fully means accepting suffering
+		- living means more than just staying alive
+		- quality of life vs quantity of life
+		- 
 
 
 - Books (links are to book on Amazon only because it's an easy place to find a description of what the book is about)
