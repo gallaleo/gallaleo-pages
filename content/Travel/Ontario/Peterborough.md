@@ -6,6 +6,11 @@ DateCreated: 2023-07-30
 - [Visit Peterborough - City of Peterborough](https://www.peterborough.ca/en/explore-and-play/visit-peterborough.aspx)
 
 
+- Things to Do
+	- [Warsaw Caves Conservation Area \| Otonabee Conservation](https://www.otonabeeconservation.com/conservation-areas/warsaw-caves-conservation-area/)
+	- [Home - The Canadian Canoe Museum](https://canoemuseum.ca)
+	- 
+
 - Accommodations
 	- [Peterborough Inn & Suites hotel in peterborough](https://peterboroughinn.com)
 	- [Hotel in Peterborough \| Holiday Inn Peterborough-Waterfront Hotel](https://www.ihg.com/holidayinn/hotels/us/en/peterborough/ypqca/hoteldetail?cm_mmc=GoogleMaps-_-HI-_-CA-_-YPQCA)
