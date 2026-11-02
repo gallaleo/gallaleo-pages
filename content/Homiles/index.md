@@ -4,6 +4,8 @@
 
 
 - ### 2026
+	- [[20261101 - Year A - Solemnity - All Saints -]]
+		- beatitudes, saintliness
 	- [[20260920 - Year A - Ordinary Time - 25th Sunday -]]
 		- comparison, God's generosity
 	- [[20260517 - Year A - Solemnity - Ascension of the Lord -]]
@@ -64,7 +66,3 @@
 		- Do you ever feel like you are your own worst enemy?
 	- [[20240121 - Year B - Ordinary Time - 3rd Sunday -|20240121 - Year B - Ordinary Time - 3rd Sunday]]
 		- Life is a game.  You can't undo a move, but you can make the next one better!
-
-
-
- 
