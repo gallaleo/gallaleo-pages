@@ -4,6 +4,8 @@
 
 
 - ### 2026
+	- [[20261115 - Year A - Ordinary Time - 33rd Sunday -]]
+		- overcoming fears and doubts
 	- [[20261101 - Year A - Solemnity - All Saints -]]
 		- beatitudes, saintliness
 	- [[20260920 - Year A - Ordinary Time - 25th Sunday -]]
